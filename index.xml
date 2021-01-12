@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Thanks for visiting my website! My name is Melissa Jay, and I am a fourth-year PhD Candidate in Biostatistics at the University of Iowa. I am working with Dr. Jacob Oleson on my dissertation research, which focuses on statistical methods for spatio-temporal modeling of cancer risk. We are developing methods for addressing zero inflation in the estimation of age-adjusted rates and methods for performing Bayesian mediation analyses with spatial datasets.</description>
+      <description>Thanks for visiting my website! My name is Melissa Jay, and I am a fourth-year PhD Candidate in Biostatistics at the University of Iowa. I am working with Dr. Jacob Oleson on my dissertation research, which focuses on statistical methods for spatio-temporal modeling of cancer risk. We are developing methods for addressing zero inflation in the estimation of age-adjusted rates and methods for performing Bayesian mediation analyses with spatial datasets.</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <guid>/publications/</guid>
       <description>Jay M, Betensky RA. Displaying survival of patient groups defined by covariate paths: Extensions of the Kaplan-Meier estimator. To appear in Statistics in Medicine.
 [coming soon]
-Sewell DK, Penney J, Jay M, Zhang Y, Paulsen JS. Predicting an optimal composite outcome variable for Huntington’s disease clinical trials. To appear in Journal of Applied Statistics.
+Sewell DK, Penney J, Jay M, Zhang Y, Paulsen JS. Predicting an optimal composite outcome variable for Huntington&#39;s disease clinical trials. To appear in Journal of Applied Statistics.
 [paper]
 Mao Q, Jay M, Hoffman JL, Calvert J, Barton C, Shimabukuro D, Shieh L, Chettipally U, Fletcher G, Kerem Y, Zhou Y, Das R.</description>
     </item>
@@ -34,7 +34,7 @@ Mao Q, Jay M, Hoffman JL, Calvert J, Barton C, Shimabukuro D, Shieh L, Chettipal
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/presentations/</guid>
-      <description>Understanding “how” in a study of cause and effect: An introduction to mediation analysis in epidemiology. University of Iowa INFORMS Student Chapter Knowledge Cafe. Virtual presentation. 2020.
+      <description>Understanding &#34;how&#34; in a study of cause and effect: An introduction to mediation analysis in epidemiology. University of Iowa INFORMS Student Chapter Knowledge Cafe. Virtual presentation. 2020.
 [slides]
 Displaying survival of patient groups defined by covariate paths: Extensions of the Kaplan-Meier estimator. Eastern North American Region International Biometric Society Spring Meeting. Virtual meeting. 2020.
 [poster]
