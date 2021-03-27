@@ -21,11 +21,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Jay M, Oleson J, Charlton M, Arab A. A Bayesian approach for estimating age-adjusted rates for low-prevalence diseases over space and time. To appear in Statistics in Medicine.
-[coming soon]
-Jay M, Betensky RA. 2021. Displaying survival of patient groups defined by covariate paths: Extensions of the Kaplan-Meier estimator. Statistics in Medicine.
-[paper]
-Sewell DK, Penney J, Jay M, Zhang Y, Paulsen JS. 2020. Predicting an optimal composite outcome variable for Huntington&#39;s disease clinical trials.</description>
+      <description>Jay M, Oleson J, Charlton M, Arab A. A Bayesian approach for estimating age-adjusted rates for low-prevalence diseases over space and time. To appear in Statistics in Medicine. [paper]
+Jay M, Betensky RA. 2021. Displaying survival of patient groups defined by covariate paths: Extensions of the Kaplan-Meier estimator. Statistics in Medicine. [paper]
+Sewell DK, Penney J, Jay M, Zhang Y, Paulsen JS. 2020. Predicting an optimal composite outcome variable for Huntington&#39;s disease clinical trials.</description>
     </item>
     
     <item>
@@ -34,11 +32,9 @@ Sewell DK, Penney J, Jay M, Zhang Y, Paulsen JS. 2020. Predicting an optimal com
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/presentations/</guid>
-      <description>Modeling age-adjusted rates from spatio-temporal data sets with excess zero counts. Conference on Statistical Practice. Virtual presentation. 2021.
-[slides]
-Understanding &#34;how&#34; in a study of cause and effect: An introduction to mediation analysis in epidemiology. University of Iowa INFORMS Student Chapter Knowledge Cafe. Virtual presentation. 2020.
-[slides]
-Displaying survival of patient groups defined by covariate paths: Extensions of the Kaplan-Meier estimator. Eastern North American Region International Biometric Society Spring Meeting.</description>
+      <description>Modeling age-adjusted rates from spatio-temporal data sets with excess zero counts. Conference on Statistical Practice. Virtual presentation. 2021. [slides]
+Understanding &#34;how&#34; in a study of cause and effect: An introduction to mediation analysis in epidemiology. University of Iowa INFORMS Student Chapter Knowledge Cafe. Virtual presentation. 2020. [slides]
+Displaying survival of patient groups defined by covariate paths: Extensions of the Kaplan-Meier estimator. Eastern North American Region International Biometric Society Spring Meeting.</description>
     </item>
     
   </channel>
