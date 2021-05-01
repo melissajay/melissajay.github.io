@@ -7,12 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>/about/</link>
+      <title>Media</title>
+      <link>/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>Thanks for visiting my website! My name is Melissa Jay, and I am a fourth-year PhD Candidate in Biostatistics at the University of Iowa. I am working with Dr. Jacob Oleson on my dissertation research, which focuses on statistical methods for spatio-temporal modeling of cancer risk. We are developing methods for addressing zero inflation in the estimation of age-adjusted rates and methods for performing Bayesian mediation analyses with spatial datasets.</description>
+      <guid>/media/</guid>
+      <description>p {font-size: 18px;text-align: center;}Goldwater Scholarship Graduate School Webinar
+  Research Communication on Twitter
+Enjoyed working with Drs. @jacob_oleson, Mary Charlton, and @rabalia on this research!
+We propose a Bayesian approach for modeling age-adjusted rates from spatio-temporal datasets with excess zero counts. 1/ https://t.co/kH1LHRws2j
+&amp;mdash; Melissa Jay (@MelissaJay) March 18, 2021  Excited to share our new paper in Statistics in Medicine (worked with Dr.</description>
+    </item>
+    
+    <item>
+      <title>Melissa Jay</title>
+      <link>/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/</guid>
+      <description>img {border-radius: 50%;}Thanks for visiting my website! My name is Melissa Jay, and I am a fourth-year PhD Candidate in Biostatistics at the University of Iowa. I am working with Dr. Jacob Oleson on my dissertation research, which focuses on statistical methods for spatio-temporal modeling of cancer risk. We are developing methods for addressing zero inflation in the estimation of age-adjusted rates and methods for performing Bayesian mediation analyses with spatial datasets.</description>
     </item>
     
     <item>
@@ -21,9 +34,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Jay M, Oleson J, Charlton M, Arab A. A Bayesian approach for estimating age-adjusted rates for low-prevalence diseases over space and time. Statistics in Medicine. 2021;1-17. [paper]
-Jay M, Betensky RA. Displaying survival of patient groups defined by covariate paths: Extensions of the Kaplan-Meier estimator. Statistics in Medicine. 2021;40:2024-2036. [paper]
+      <description>Jay M, Oleson J, Charlton M, Arab A. A Bayesian approach for estimating age-adjusted rates for low-prevalence diseases over space and time. Statistics in Medicine. 2021;1-17.
+Jay M, Betensky RA. Displaying survival of patient groups defined by covariate paths: Extensions of the Kaplan-Meier estimator. Statistics in Medicine. 2021;40:2024-2036. 
 Sewell DK, Penney J, Jay M, Zhang Y, Paulsen JS. Predicting an optimal composite outcome variable for Huntington&#39;s disease clinical trials.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Jay M, Oleson J, Charlton M, Arab A. A Bayesian approach for estimating age-adjusted rates for low-prevalence diseases over space and time. Statistics in Medicine. 2021;1-17.Enjoyed working with Drs. @jacob_oleson, Mary Charlton, and @rabalia on this research!
+We propose a Bayesian approach for modeling age-adjusted rates from spatio-temporal datasets with excess zero counts. 1/ https://t.co/kH1LHRws2j
+&amp;mdash; Melissa Jay (@MelissaJay) March 18, 2021  Jay M, Betensky RA.</description>
     </item>
     
     <item>
@@ -32,9 +56,36 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/presentations/</guid>
-      <description>Modeling age-adjusted rates from spatio-temporal data sets with excess zero counts. Conference on Statistical Practice. Virtual presentation. 2021. [slides]
-Understanding &#34;how&#34; in a study of cause and effect: An introduction to mediation analysis in epidemiology. University of Iowa INFORMS Student Chapter Knowledge Cafe. Virtual presentation. 2020. [slides]
+      <description>Modeling age-adjusted rates from spatio-temporal data sets with excess zero counts. Conference on Statistical Practice. Virtual presentation. 2021. 
+Understanding &#34;how&#34; in a study of cause and effect: An introduction to mediation analysis in epidemiology. University of Iowa INFORMS Student Chapter Knowledge Cafe. Virtual presentation. 2020. 
 Displaying survival of patient groups defined by covariate paths: Extensions of the Kaplan-Meier estimator. Eastern North American Region International Biometric Society Spring Meeting.</description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/</guid>
+      <description>Leadership
+President, Biostatistics Student Organization (BSO), University of Iowa (2020 - Present)
+President &amp;amp; Student Founder, Society for Industrial and Applied Mathematics Student Chapter, Colorado College (2013 - 2015)
+Mentorship
+Mentorship Program Committee Member, Goldwater Scholar Community Council (2020 - Present)
+Mentor, Biostatistics Student Organization Mentorship Program (2020 - Present)
+Competitive Scholarships Mentor, Dear Future Colleague (2020)
+Mentor, Women in STEM Mentorship Program, Harvard College (2017 - 2018)</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>Iowa Summer Institute in Biostatistics
+The Iowa Summer Institute in Biostatistics (ISIB) is an NIH-funded summer institute focused on introducing undergraduates to the field of biostatistics. While at Iowa, I have been actively involved with ISIB, serving as a Lab Instructor and participating in social activities to acquaint undergraduate scholars with our department and the graduate school experience.
+Lab Instructor for BIOS:4110 General Biostatistics (Summer 2019)University of Iowa</description>
     </item>
     
   </channel>
