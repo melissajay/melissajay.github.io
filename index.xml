@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/media/</guid>
-      <description>p {font-size: 18px;text-align: center;}Goldwater Scholarship Graduate School Webinar
+      <description>p {text-align: center;}Goldwater Scholarship Graduate School Webinar
   Research Communication on Twitter
 Enjoyed working with Drs. @jacob_oleson, Mary Charlton, and @rabalia on this research!
 We propose a Bayesian approach for modeling age-adjusted rates from spatio-temporal datasets with excess zero counts. 1/ https://t.co/kH1LHRws2j
@@ -34,9 +34,9 @@ We propose a Bayesian approach for modeling age-adjusted rates from spatio-tempo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Jay M, Oleson J, Charlton M, Arab A. A Bayesian approach for estimating age-adjusted rates for low-prevalence diseases over space and time. Statistics in Medicine. 2021;1-17.
-Jay M, Betensky RA. Displaying survival of patient groups defined by covariate paths: Extensions of the Kaplan-Meier estimator. Statistics in Medicine. 2021;40:2024-2036. 
-Sewell DK, Penney J, Jay M, Zhang Y, Paulsen JS. Predicting an optimal composite outcome variable for Huntington&#39;s disease clinical trials.</description>
+      <description>Jay M, Oleson J, Charlton M, Arab A. A Bayesian approach for estimating age-adjusted rates for low-prevalence diseases over space and time. Statistics in Medicine. 2021;40(12):2922-2938.
+Sewell DK, Penney J, Jay M, Zhang Y, Paulsen JS. Predicting an optimal composite outcome variable for Huntington&#39;s disease clinical trials. Journal of Applied Statistics. 2021;48(7):1339-1348. 
+Jay M, Betensky RA. Displaying survival of patient groups defined by covariate paths: Extensions of the Kaplan-Meier estimator.</description>
     </item>
     
     <item>
@@ -68,13 +68,13 @@ We propose a Bayesian approach for modeling age-adjusted rates from spatio-tempo
       
       <guid>/service/</guid>
       <description>Leadership
-President, Biostatistics Student Organization (BSO), University of Iowa (2020 - Present)
+President, Biostatistics Student Organization (BSO), University of Iowa (2020 - 2021)
 President &amp;amp; Student Founder, Society for Industrial and Applied Mathematics Student Chapter, Colorado College (2013 - 2015)
 Mentorship
+Mentor, Goldwater Scholar Community Mentorship Program (2021 - Present)
 Mentorship Program Committee Member, Goldwater Scholar Community Council (2020 - Present)
 Mentor, Biostatistics Student Organization Mentorship Program (2020 - Present)
-Competitive Scholarships Mentor, Dear Future Colleague (2020)
-Mentor, Women in STEM Mentorship Program, Harvard College (2017 - 2018)</description>
+Competitive Scholarships Mentor, Dear Future Colleague (2020)</description>
     </item>
     
     <item>
@@ -84,7 +84,7 @@ We propose a Bayesian approach for modeling age-adjusted rates from spatio-tempo
       
       <guid>/teaching/</guid>
       <description>Iowa Summer Institute in Biostatistics
-The Iowa Summer Institute in Biostatistics (ISIB) is an NIH-funded summer institute focused on introducing undergraduates to the field of biostatistics. While at Iowa, I have been actively involved with ISIB, serving as a Lab Instructor and participating in social activities to acquaint undergraduate scholars with our department and the graduate school experience.
+The Iowa Summer Institute in Biostatistics (ISIB) is an NIH-funded summer institute focused on introducing undergraduates to the field of biostatistics. While at Iowa, I have been actively involved with ISIB, serving as a Lab Instructor and participating in social activities to acquaint undergraduate scholars with our department and graduate school.
 Lab Instructor for BIOS:4110 General Biostatistics (Summer 2019)University of Iowa</description>
     </item>
     
